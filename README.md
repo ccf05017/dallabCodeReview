@@ -1,5 +1,5 @@
 # DallabCodeReview
-##ETH 클라이언트 코드 리뷰를 위한 저장소
+## ETH 클라이언트 코드 리뷰를 위한 저장소
 
 ### 관련 내용
 - oldVersionConnector가 처음 짤 때 기능만 빠르게 구현하려고 만든 코드입니다.
